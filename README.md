@@ -1,3 +1,4 @@
 - Exploratory data analysis of Steam data of over 92k records and predicting next Game of the year using Predictive analytics
 - File size of over 143 MB was taken from Kaggle for data source.
 - Link : #https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings?resource=download
+- Please CHECK the Case Study report 
